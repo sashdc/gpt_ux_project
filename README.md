@@ -8,7 +8,7 @@ The page is static, but is designed to be responsive and adaptive to different v
 
 It was made based on [an existing Figma Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=HzYCzHwaByNo1YRy-0) but was fully made with React.
 
-![Screenshot of full working page](./src/assets/images/site-screenshot.jpg "GPT3 Page Screenshot")
+![Screenshot of full working page](./src/assets/images/gpt3-screenshot.jpg "GPT3 Page Screenshot")
 
 ### Links
 
