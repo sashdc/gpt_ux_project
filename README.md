@@ -2,7 +2,7 @@
 
 ## Overview
 
-I have created a modern, fully responsive react page for ChatGPT3. The page makes full use of reusable functional components, react file/fodler structure, and implements the CSS BEM Model for naming conventions.
+I have created a modern, fully responsive react page for ChatGPT3. The page makes full use of reusable functional components, react file/folder structure, and implements the CSS BEM Model for naming conventions.
 
 The page is static, but is designed to be responsive and adaptive to different viewports.
 
